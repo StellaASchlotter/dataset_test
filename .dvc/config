@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://naoth@gruenau6.informatik.hu-berlin.de:22/vol/repl261-vol4/naoth/datasets
